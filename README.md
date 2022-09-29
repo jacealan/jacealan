@@ -61,6 +61,23 @@
       <img src="https://img.shields.io/badge/Nextjs-222222?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge"/>
     </a>
   </div>
+  <div id="badges">
+    <a href="https://code.visualstudio.com/">
+      <img src="https://img.shields.io/badge/VSC-317AC6?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="html Badge"/>
+    </a>
+    <a href="https://colab.research.google.com/">
+      <img src="https://img.shields.io/badge/Colab-E8710A?style=for-the-badge&logo=googlecolab&logoColor=white" alt="css Badge"/>
+    </a>
+    <a href="https://repl.it/">
+      <img src="https://img.shields.io/badge/Replit-222222?style=for-the-badge&logo=replit&logoColor=white" alt="scss Badge"/>
+    </a>
+    <a href="https://codesandbox.io/">
+      <img src="https://img.shields.io/badge/Codesandbox-7B61FF?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Javascript Badge"/>
+    </a>
+    <a href="https://www.vim.org/">
+      <img src="https://img.shields.io/badge/vim-007900?style=for-the-badge&logo=vim&logoColor=white" alt="Javascript Badge"/>
+    </a>
+  </div>
   <hr />
   <div id="github-streak">
     <a href="https://git.io/streak-stats">
