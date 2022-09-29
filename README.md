@@ -49,7 +49,7 @@
       <img src="https://img.shields.io/badge/Scss-BF4080?style=for-the-badge&logo=sass&logoColor=white" alt="scss Badge"/>
     </a>
     <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">
-      <img src="https://img.shields.io/badge/Javascript-D6BA32?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript Badge"/>
+      <img src="https://img.shields.io/badge/Javascript-D6BA32?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Badge"/>
     </a>
     <a href="https://nodejs.org/ko/">
       <img src="https://img.shields.io/badge/Nodejs-1F2F2B?style=for-the-badge&logo=node.js&logoColor=white" alt="Javascript Badge"/>
