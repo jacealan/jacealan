@@ -43,7 +43,7 @@
       <img src="https://img.shields.io/badge/Css-0066B6?style=for-the-badge&logo=css3&logoColor=white" alt="Pandas Badge"/>
     </a>
     <a href="https://sass-lang.com/">
-      <img src="https://img.shields.io/badge/Scss-0066B6?style=for-the-badge&logo=sass&logoColor=white" alt="Pandas Badge"/>
+      <img src="https://img.shields.io/badge/Scss-BF4080?style=for-the-badge&logo=sass&logoColor=white" alt="Pandas Badge"/>
     </a>
     <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">
       <img src="https://img.shields.io/badge/Javascript-D6BA32?style=for-the-badge&logo=javascript&logoColor=white" alt="Twitter Badge"/>
