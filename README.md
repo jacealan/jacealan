@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="300"/>
+  <img src="https://media3.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="360"/>
   <div id="badges">
     <a href="https://blog.naver.com/jacealan">
       <img src="https://img.shields.io/badge/Naver-04CF5C?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Badge"/>
@@ -26,7 +26,7 @@
       <img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
     </a>
     <a href="https://matplotlib.org/">
-      <img src="https://img.shields.io/badge/Matplotlib-65BAEA?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge"/>
+      <img src="https://img.shields.io/badge/Matplotlib-65BAEA?style=for-the-badge&logo=soundcharts&logoColor=white" alt="Matplotlib Badge"/>
     </a>
     <a href="https://plotly.com/">
       <img src="https://img.shields.io/badge/Plotly-3E4A72?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Badge"/>
@@ -50,6 +50,9 @@
     </a>
     <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">
       <img src="https://img.shields.io/badge/Javascript-D6BA32?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript Badge"/>
+    </a>
+    <a href="https://nodejs.org/ko/">
+      <img src="https://img.shields.io/badge/Nodejs-1F2F2B?style=for-the-badge&logo=node.js&logoColor=white" alt="Javascript Badge"/>
     </a>
     <a href="https://ko.reactjs.org/">
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
