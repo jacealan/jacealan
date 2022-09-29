@@ -55,7 +55,7 @@
       <img src="https://img.shields.io/badge/Nodejs-1F2F2B?style=for-the-badge&logo=node.js&logoColor=white" alt="Javascript Badge"/>
     </a>
     <a href="https://ko.reactjs.org/">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
     </a>
     <a href="https://nextjs.org/">
       <img src="https://img.shields.io/badge/Nextjs-222222?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge"/>
