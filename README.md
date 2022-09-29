@@ -11,7 +11,10 @@
       <img src="https://img.shields.io/badge/JaDoc-darkgreen?style=for-the-badge&logo=vercel&logoColor=white" alt="JaDoc Badge"/>
     </a>
     <a href="mailto:jacealan1@gmail.com">
-      <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=mailgun&logoColor=white" alt="Email Badge"/>
+      <img src="https://img.shields.io/badge/Email-dddddd?style=for-the-badge&logo=mailgun&logoColor=black" alt="Email Badge"/>
+    </a>
+    <a href="https://notion.so/">
+      <img src="https://img.shields.io/badge/Notion-161B22?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=jacealan&style=flat-square&color=blue" alt=""/>
@@ -23,36 +26,36 @@
       <img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
     </a>
     <a href="https://matplotlib.org/">
-      <img src="https://img.shields.io/badge/Matplotlib-65BAEA?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Matplotlib-65BAEA?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge"/>
     </a>
     <a href="https://plotly.com/">
-      <img src="https://img.shields.io/badge/Plotly-3E4A72?style=for-the-badge&logo=plotly&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Plotly-3E4A72?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Badge"/>
     </a>
     <a href="https://www.djangoproject.com/">
-      <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
     </a>
     <a href="https://flask.palletsprojects.com/en/2.2.x/">
-      <img src="https://img.shields.io/badge/Flask-333333?style=for-the-badge&logo=flask&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Flask-333333?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge"/>
     </a>
   </div>
   <div id="badges">
     <a href="https://developer.mozilla.org/ko/docs/Web/HTML">
-      <img src="https://img.shields.io/badge/Html-E54C21?style=for-the-badge&logo=html5&logoColor=white" alt="Python Badge"/>
+      <img src="https://img.shields.io/badge/Html-E54C21?style=for-the-badge&logo=html5&logoColor=white" alt="html Badge"/>
     </a>
     <a href="https://developer.mozilla.org/ko/docs/Web/CSS">
-      <img src="https://img.shields.io/badge/Css-0066B6?style=for-the-badge&logo=css3&logoColor=white" alt="Pandas Badge"/>
+      <img src="https://img.shields.io/badge/Css-0066B6?style=for-the-badge&logo=css3&logoColor=white" alt="css Badge"/>
     </a>
     <a href="https://sass-lang.com/">
-      <img src="https://img.shields.io/badge/Scss-BF4080?style=for-the-badge&logo=sass&logoColor=white" alt="Pandas Badge"/>
+      <img src="https://img.shields.io/badge/Scss-BF4080?style=for-the-badge&logo=sass&logoColor=white" alt="scss Badge"/>
     </a>
     <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">
-      <img src="https://img.shields.io/badge/Javascript-D6BA32?style=for-the-badge&logo=javascript&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Javascript-D6BA32?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript Badge"/>
     </a>
     <a href="https://ko.reactjs.org/">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
     </a>
     <a href="https://nextjs.org/">
-      <img src="https://img.shields.io/badge/Nextjs-222222?style=for-the-badge&logo=next.js&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Nextjs-222222?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge"/>
     </a>
   </div>
   <hr />
