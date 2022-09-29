@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="360"/>
   <div id="badges">
     <a href="https://blog.naver.com/jacealan">
-      <img src="https://img.shields.io/badge/Naver-04CF5C?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Badge"/>
+      <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Badge"/>
     </a>
     <a href="https://japp-nu.vercel.app/">
       <img src="https://img.shields.io/badge/Japp-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Japp Badge"/>
