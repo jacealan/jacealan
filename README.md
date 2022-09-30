@@ -89,13 +89,15 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacealan&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
     </a>
   </div>
+  <hr />
+  <div id="introduce"><ul>
+    <li>👋 Hi, I’m @jacealan</li>
+    <li>👀 I’m interested in data science, quant, trading, financial engineering</li>
+    <li>🌱 I’m currently learning python, react, next.js</li>
+    <li>💞️ I’m looking to collaborate on ...</li>
+    <li>📫 How to reach me ...</li>
+  </div>
 </div>
-
-- 👋 Hi, I’m @jacealan
-- 👀 I’m interested in data science, quant, trading, financial engineering
-- 🌱 I’m currently learning python, react, next.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 jacealan/jacealan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
