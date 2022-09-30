@@ -81,12 +81,12 @@
   <hr />
   <div id="github-streak">
     <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=jacealan&theme=nord" alt="GitHub Streak" height="24px;" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=jacealan&theme=nord" alt="GitHub Streak" />
     </a>
   </div>
   <div id="top-langs">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacealan&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="24px;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacealan&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
     </a>
   </div>
   <hr />
