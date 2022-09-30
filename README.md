@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/JaDoc-darkgreen?style=for-the-badge&logo=vercel&logoColor=white" alt="JaDoc Badge" height="24px;" />
     </a>
     <a href="https://github.com/jacealan">
-      <img src="https://img.shields.io/badge/Github-dddddd?style=for-the-badge&logo=github&logoColor=black" alt="Email Badge" height="24px;" />
+      <img src="https://img.shields.io/badge/GitHub-dddddd?style=for-the-badge&logo=github&logoColor=black" alt="Email Badge" height="24px;" />
     </a>
     <a href="https://notion.so/">
       <img src="https://img.shields.io/badge/Notion-161B22?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge" height="24px;" />
