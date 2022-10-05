@@ -93,6 +93,24 @@
     </a>
   </div>
   <hr />
+  <div id="lecture">
+    <a href="https://fastcampus.co.kr/" target="_blank">
+      <img src="https://miro.medium.com/max/2400/2*EyzivijioaGvKtIBN3ruQw.png" alt="Fastcampus" width="90px" />
+    </a>
+    <a href="https://nomadcoders.co/" target="_blank">
+      <img src="https://yt3.ggpht.com/ytc/AMLnZu9oK13cNMbLQY4tdSv9a0CWOFlwlfdAF-UDM3ZUmg=s900-c-k-c0x00ffffff-no-rj" alt="Nomadcoders" width="90px" />
+    </a>
+    <a href="https://www.acmicpc.net/" target="_blank">
+      <img src="https://tistory4.daumcdn.net/tistory/3917684/skin/images/baekjoon-icon.png" alt="Baekjoon" width="90px" />
+    </a>
+    <a href="https://programmers.co.kr/" target="_blank">
+      <img src="https://avatars.githubusercontent.com/u/88082564?s=280&v=4" alt="Programmers" width="90px" />
+    </a>
+    <a href="https://developer.mozilla.org/ko/" target="_blank">
+      <img src="https://pbs.twimg.com/profile_images/1511434207079407618/AwzUxnVf_400x400.png" alt="mdn" width="90px" />
+    </a>
+  </div>
+  <hr />
   <div id="baekjoon">
     <a href="https://www.acmicpc.net/" target="_blank">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jacealan" alt="Baekjoon" />
