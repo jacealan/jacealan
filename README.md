@@ -82,6 +82,12 @@
     </a>
   </div>
   <hr />
+  <div id="baekjoon">
+    <a href="https://www.acmicpc.net/" target="_blank">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jacealan" alt="Baekjoon" />
+    </a>
+  </div>
+  <hr />
   <div id="github-streak">
     <a href="https://git.io/streak-stats" target="_blank">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=jacealan&theme=nord" alt="GitHub Streak" />
@@ -110,12 +116,7 @@
       <img src="https://pbs.twimg.com/profile_images/1511434207079407618/AwzUxnVf_400x400.png" alt="mdn" width="90px" />
     </a>
   </div>
-  <hr />
-  <div id="baekjoon">
-    <a href="https://www.acmicpc.net/" target="_blank">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jacealan" alt="Baekjoon" />
-    </a>
-  </div>
+
   <hr />
   <div id="introduce"><ul>
     <li>👋 Hi, I’m @jacealan</li>
