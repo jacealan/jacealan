@@ -87,6 +87,7 @@
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jacealan" alt="Baekjoon" />
     </a>
   </div>
+<!---
   <hr />
   <div id="github-streak">
     <a href="https://git.io/streak-stats" target="_blank">
@@ -125,6 +126,7 @@
     <li>💞️ I’m looking to collaborate on ...</li>
     <li>📫 How to reach me ...</li>
   </div>
+--->
 </div>
 
 <!---
