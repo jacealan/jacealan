@@ -21,6 +21,14 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=jacealan&style=flat-square&color=blue" alt=""/>
+  <div id="dart-badges">
+    <a href="https://dart.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge" height="24px;" />
+    </a>
+    <a href="https://flutter.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Dart Badge" height="24px;" />
+    </a>
+  </div>
   <div id="python-badges">
     <a href="https://www.python.org/" target="_blank">
       <img src="https://img.shields.io/badge/Python-1E425F?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" height="24px;" />
